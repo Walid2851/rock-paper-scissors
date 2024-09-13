@@ -1,4 +1,5 @@
-Rock, Paper, Scissors is a simple game where the player competes against the computer. The game follows the classic rules:
+# Rock, Paper, Scissors is a simple game
+where the player competes against the computer. The game follows the classic rules:
 
 Rock beats Scissors
 Scissors beat Paper
